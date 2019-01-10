@@ -24,3 +24,4 @@ install:
 	go get 'honnef.co/go/tools/cmd/keyify'
 	go get 'github.com/fatih/motion'
 	go get 'github.com/koron/iferr'
+	go get 'github.com/cweill/gotests'
